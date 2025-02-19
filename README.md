@@ -3,9 +3,13 @@ This is where I store my coding projects related to data retrieval, manipulation
 📂 Repository Structure
 
 📦 my-coding-projects
+
 ├── python/         # Data retrieval and manipulation projects
+
 ├── c/             # C projects from Harvard CS50 course
+
 ├── sql/           # SQL exercises and projects
+
 └── README.md      # This file
 
 🚀 Projects Overview
