@@ -17,20 +17,27 @@ This is where I store my coding projects related to data retrieval, manipulation
 🔹 Python Projects
 
 These projects focus on data analysis, retrieval, and transformation using Python. They include:
+
 Web Scraping: Extracting data from websites using BeautifulSoup.
+
 Data Cleaning & Manipulation: Using Pandas for data wrangling.
 
 🔹 C Projects
 
 These projects are part of my Harvard CS50 coursework and cover:
+
 Algorithms & Data Structures: Implementations of sorting, searching, and other core CS concepts.
+
 Memory Management: Understanding pointers, dynamic memory, and efficient coding practices.
+
 Small CLI Applications: Hands-on coding challenges from the CS50 curriculum.
 
 🔹 Vilnius Coding School SQL Project
 
 Project includes:
+
 SQL Queries & Data Analysis: Writing complex queries for data extraction and insights.
+
 Database Design & Normalization: Structuring relational databases efficiently.
 
 💡 Technologies Used
