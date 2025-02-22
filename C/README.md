@@ -16,6 +16,3 @@ Memory Management >
     Filter: This set of C functions manipulates images represented as 2D arrays of RGBTRIPLE structs, providing grayscale (using averaging and round), sepia (applying a color transformation with coefficients, round, and value limiting), and reflect (performing a horizontal flip by swapping pixel data).
 
     Volume: This program adjusts audio volume in a WAV file, using command-line arguments for filenames and a volume factor (converted using atof), opening files with fopen in binary read/write modes, copying the header using fread/fwrite and a uint8_t array, and then scaling and writing audio samples via a loop, fread, fwrite, and an int16_t variable for sample manipulation.
-
-
-    
