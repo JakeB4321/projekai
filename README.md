@@ -34,15 +34,13 @@ Memory Management: Understanding pointers, dynamic memory, and efficient coding 
 
 Small CLI Applications: Hands-on coding challenges from the CS50 curriculum.
 
-🔹 SQL Projects
+🔹 Vilnius Coding School SQL Project
 
-These projects include:
+Project includes:
 
 SQL Queries & Data Analysis: Writing complex queries for data extraction and insights.
 
 Database Design & Normalization: Structuring relational databases efficiently.
-
-Harvard CS50 SQL Assignments: SQL-based problem-solving tasks.
 
 💡 Technologies Used
 
