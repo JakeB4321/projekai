@@ -8,7 +8,7 @@ This is where I store my coding projects related to data retrieval, manipulation
 
 ├── c/             # C projects from Harvard CS50 course
 
-├── sql/           # SQL exercises and projects
+├── sql/           # SQL final project tasks from Vilnius Coding School
 
 └── README.md      # This file
 
