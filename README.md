@@ -4,8 +4,11 @@ This is where I store my coding projects related to data retrieval, manipulation
 
 📦 projektai
 ├── python/         # Data retrieval and manipulation projects
+
 ├── c/             # C projects from Harvard CS50 course
+
 ├── sql/           # SQL final project tasks from Vilnius Coding School
+
 └── README.md      # This file
 
 🚀 Projects Overview
